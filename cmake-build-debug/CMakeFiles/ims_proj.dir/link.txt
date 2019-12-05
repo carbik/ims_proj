@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ims_proj.dir/main.cpp.o  -o ims_proj.exe -Wl,--out-implib,libims_proj.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
